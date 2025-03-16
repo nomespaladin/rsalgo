@@ -1,6 +1,6 @@
 # RSA Algorithm Implementation
 
-This repository contains a Python implementation of the RSA algorithm, which is widely used for secure data transmission. The code generates RSA keys, encrypts messages using the public key, and decrypts them using the private key.
+This repository contains a Python mathematical implementation of RSA algorithm, which is widely used for secure data transmission. The code generates RSA keys, encrypts messages using the public key, and decrypts them using the private key.
 
 ## Features
 
